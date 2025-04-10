@@ -1,6 +1,6 @@
 # Flott video
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/u-OmVr_fT4s/0.jpg)](http://www.youtube.com/watch?v=u-OmVr_fT4s)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/9Os0o3wzS_I/0.jpg)](http://www.youtube.com/watch?v=9Os0o3wzS_I)
 # Flott Mynd
 
 ![The San Juan Mountains are beautiful](myndir/mountains.avif "San Juan Mountains")
