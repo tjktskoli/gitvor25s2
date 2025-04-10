@@ -1,6 +1,5 @@
 # Flott video
 
-u-OmVr_fT4s
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/u-OmVr_fT4s/0.jpg)](http://www.youtube.com/watch?v=u-OmVr_fT4s)
 # Flott Mynd
 
